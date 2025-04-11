@@ -357,6 +357,3 @@ public class StudentManagementSystem {
     }
 }
 
-
-//  610431200205153411
-//  13629182134
